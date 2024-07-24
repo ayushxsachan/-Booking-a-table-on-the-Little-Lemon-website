@@ -1,0 +1,3 @@
+npx create-react-app little-lemon
+cd little-lemon
+npm start
